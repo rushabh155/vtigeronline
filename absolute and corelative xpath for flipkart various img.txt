@@ -25,11 +25,13 @@ CORELATIVE XPATH :-
 //div[2]/div/div/div[8]/a/div[1]/div/img  => top offers
 
 
+the line added new
 
 driver.manage().window().maximize();
 driver.manage().window().maximize();
 driver.manage().window().maximize();
 driver.manage().window().maximize();
 
+the line added new
 
 
