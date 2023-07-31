@@ -1,0 +1,11 @@
+html/body/div[1]/div/div[2]/div/div/div[7]/a/div[1]/div/img =ABSOULTE XPATH
+  
+CORELATIVE XPATH FOR FLIPKART TRAVEL IMG :-
+
+(BACKWARD DIRECTION)
+
+//img===60 (means 60 duplicates for img tag)
+//div/img===58
+//div[1]/div/img==42
+//a/div[1]/div/img==38
+//div[7]/a/div[1]/div/img===1 (1 of 1) (no duplicate)
