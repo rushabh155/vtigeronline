@@ -26,3 +26,10 @@ CORELATIVE XPATH :-
 
 
 
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+
+
+

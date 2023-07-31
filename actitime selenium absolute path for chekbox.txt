@@ -26,6 +26,15 @@ html/body/table/tbody/tr/td/table/tbody/tr[1]/td/div/table/tbody/tr/td[2]/div/ta
 html/body/table/tbody/tr/td/table/tbody/tr[1]/td/div/table/tbody/tr/td[2]/div/table/tbody/tr[6]/td/table[1]
 html/body/table/tbody/tr/td/table/tbody/tr[1]/td/div/table/tbody/tr/td[2]/div/table/tbody/tr[6]/td/table[1]
 
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+driver.manage().window().maximize();
+
 
 Final-
 
