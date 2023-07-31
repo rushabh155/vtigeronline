@@ -1,0 +1,28 @@
+
+ABSOLUTE XPATH :-
+
+html/body/div/div/div[2]/div/div/div[1]/a/div[1]/div/img  => grocery
+
+html/body/div/div/div[2]/div/div/div[2]/a/div[1]/div/img  => mobiles
+
+html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img  => aplliances
+
+html/body/div/div/div[2]/div/div/div[7]/a/div[1]/div/img  => travel
+
+html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div/img => top offers
+
+
+CORELATIVE XPATH :-
+
+//div[2]/div/div/div[1]/a/div[1]/div/img => grocery
+
+//div[2]/div/div/div[2]/a/div[1]/div/img => mobiles
+
+//div[2]/div/div/div[6]/a/div[1]/div/img => aplliances
+
+//div[2]/div/div/div[7]/a/div[1]/div/img => travel
+
+//div[2]/div/div/div[8]/a/div[1]/div/img  => top offers
+
+
+
